@@ -10,3 +10,9 @@ venv\Scripts\activate
 pip install mysql-connector-python pwinput
 python app.py
 ```
+
+## Show in MySQL
+```
+select * FROM students;
+select * FROM users;
+```
