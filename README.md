@@ -18,9 +18,10 @@ python app.py
 ```
 
 ## Show in MySQL
-```
-select * FROM students;
-```
+
 ```
 select * FROM users;
+```
+```
+select * FROM students;
 ```
