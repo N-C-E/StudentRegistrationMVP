@@ -20,9 +20,6 @@ pip install mysql-connector-python pwinput python-dotenv
 ```
 python -m pip freeze > requirements.txt
 ```
-```
-python app.py
-```
 ## Open MySQL Workbench, then:
 1. File → Open SQL Script → select 'student_db.sql'
 2. Click the lightning ⚡ button to run it
